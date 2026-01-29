@@ -1,4 +1,4 @@
-// File: C:\Users\sriha\Downloads\CouponConnect\src\app\chat\layout.tsx
+// File: C:\Users\sriha\Documents\git\Coupon-Connect\src\app\chat\layout.tsx
 import * as entry from '../../../../src/app/chat/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

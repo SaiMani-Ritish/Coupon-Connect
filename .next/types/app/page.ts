@@ -1,4 +1,4 @@
-// File: C:\Users\sriha\Downloads\CouponConnect\src\app\page.tsx
+// File: C:\Users\sriha\Documents\git\Coupon-Connect\src\app\page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
