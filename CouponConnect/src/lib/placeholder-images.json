@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "coupon-1",
+      "description": "A cup of coffee on a table.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "coffee shop"
+    },
+    {
+      "id": "coupon-2",
+      "description": "A person browsing clothes in a store.",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "clothing store"
+    },
+    {
+      "id": "coupon-3",
+      "description": "A delicious pizza on a plate.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "pizza restaurant"
+    },
+    {
+      "id": "coupon-4",
+      "description": "A collection of books on a shelf.",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "bookstore"
+    },
+    {
+      "id": "coupon-5",
+      "description": "Someone using a laptop.",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
+      "imageHint": "electronics store"
+    },
+    {
+      "id": "coupon-6",
+      "description": "A plate of gourmet food.",
+      "imageUrl": "https://picsum.photos/seed/6/600/400",
+      "imageHint": "fine dining"
+    }
+  ]
+}
